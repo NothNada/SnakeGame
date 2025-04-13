@@ -1,7 +1,3 @@
-Seu README já está bem estruturado! Aqui vai uma versão revisada com pequenas melhorias de clareza, formatação e tom mais envolvente:
-
----
-
 # 🐍 Jogo da Cobrinha em C++
 
 Bem-vindo ao repositório do **Jogo da Cobrinha**, desenvolvido em **C++** com a biblioteca gráfica [**Raylib**](https://www.raylib.com/)! Reviva esse clássico arcade em uma versão moderna e leve.
